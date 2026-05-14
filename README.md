@@ -15,13 +15,19 @@
 * [Buenas Prácticas Implementadas](#buenas-prácticas-implementadas)
 * [Instalación](#instalación)
 * [Estado del Proyecto](#estado-del-proyecto)
-* [Autor](#autor)
+* [Autores](#autores)
 * [Licencia](#licencia)
 * [English Version](#english-version)
 
 Sistema de gestión para un Centro de Salud Comunitario desarrollado en Java aplicando Programación Orientada a Objetos (POO), estructuras de datos y arquitectura modular.
 
 ---
+
+# Autores
+
+AyLZz (Daniel Ayala), Laura Ramirez, Johan Soto
+
+Proyecto desarrollado como sistema académico y arquitectónico para gestión de un Centro de Salud Comunitario.
 
 # Descripción del Proyecto
 
@@ -249,14 +255,6 @@ Actualmente incluye:
 * Gestión de pacientes
 * Historias clínicas
 * Estructura modular
-
----
-
-# Autores
-
-AyLZz (Daniel Ayala), Laura Ramirez, Johan Soto
-
-Proyecto desarrollado como sistema académico y arquitectónico para gestión de un Centro de Salud Comunitario.
 
 ---
 
